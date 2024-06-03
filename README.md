@@ -30,7 +30,7 @@ To clean the backend project, use the following command:
 dotnet clean "Backend/Backend - Backup.csproj"
 ```
 
-### Running the Backend of Project in Rider
+### Running the Backend of Project in Rider tool 
 To run the project in Rider:
 
 Open the Project:
