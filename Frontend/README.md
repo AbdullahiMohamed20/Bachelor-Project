@@ -1,6 +1,7 @@
 # Getting Started with Frontend Web-App using React.js
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#### Running the Frontend of project in the PhpStorm tool [link to PhpStorm](https://www.jetbrains.com/phpstorm/) 
 ## Available Scripts
 In the project directory,first install 
 ### `npm install`
